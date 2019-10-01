@@ -1,0 +1,9 @@
+{
+  "name": "tipobooleano",
+  "version": "0.0.1",
+  "description": "tipo de dato booleano ts",
+  "main": "index.js",
+  "repository": "git@github.com:Sofelixx/tipo-de-dato-booleano-ts.git",
+  "author": "sofelix <s18paris@gmail.com>",
+  "license": "MIT"
+}
